@@ -1,0 +1,18 @@
+{
+   "structures": [
+      {
+         "structure": "bunnys_structures:snowy_hut",
+         "weight": 1
+      },
+      {
+         "structure": "bunnys_structures:plains_hut",
+         "weight": 1
+      }
+   ],
+   "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 20,
+      "separation": 10,
+      "salt": 924086
+   }
+}
