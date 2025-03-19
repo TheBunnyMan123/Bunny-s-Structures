@@ -7,6 +7,14 @@
       {
          "structure": "bunnys_structures:plains_hut",
          "weight": 1
+      },
+      {
+         "structure": "bunnys_structures:badlands_hut",
+         "weight": 1
+      },
+      {
+         "structure": "bunnys_structures:savanna_hut",
+         "weight": 1
       }
    ],
    "placement": {
